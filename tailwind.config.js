@@ -29,8 +29,8 @@ module.exports = {
         fancy: ['Pacifico'],
       },
       colors: {
-        primary: colors.teal,
-        gray: colors.neutral,
+        primary: colors.red,
+        gray: colors.zinc,
       },
       typography: (theme) => ({
         DEFAULT: {

@@ -31,7 +31,8 @@ export default function Home({ posts }) {
               New books: Check out the Shadows of the Celestials Series!
             </h1>
             <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-              Follow Asher and his friends as they fight to stay alive in a world that seems out to get them and their kind!
+              Follow Asher and his friends as they fight to stay alive in a world that seems out to
+              get them and their kind!
             </p>
           </div>
           <div className="container py-12">
@@ -100,7 +101,7 @@ export default function Home({ posts }) {
                           className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                           aria-label={`Read "${title}"`}
                         >
-                           Read Now &rarr;
+                          Read Now &rarr;
                         </Link>
                       </div>
                     </div>

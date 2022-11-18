@@ -17,8 +17,6 @@ const projectsData = [
     imgSrc: '/static/images/crown.png',
     href: '',
   },
-
-
 ]
 
 export default projectsData

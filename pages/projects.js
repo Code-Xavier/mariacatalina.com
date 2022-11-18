@@ -13,7 +13,9 @@ export default function Projects() {
             The Shadows of the Celestials Series
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            This is my first venture into writing a multi-part teen fiction novel series😎. <br/>Follow Asher and his friends as they fight to stay alive in a world that seems out to get them and their kind! 🐲
+            This is my first venture into writing a multi-part teen fiction novel series😎. <br />
+            Follow Asher and his friends as they fight to stay alive in a world that seems out to
+            get them and their kind! 🐲
           </p>
         </div>
         <div className="container py-12">

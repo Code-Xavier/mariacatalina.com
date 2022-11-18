@@ -36,11 +36,11 @@ export default function Home({ posts }) {
             <Hero />
           </div>
         </div>
-        
+
         <section id="home" className={`flex flex-col md:flex-row  `}>
           <div className={`flex-1 ${styles.flexStart} px-6} flex-col xl:px-0 `}>
             <h1 className="mt-2 mb-2 mr-1 text-2xl font-extrabold leading-9 sm:text-4xl sm:leading-10 md:mt-1 md:mb-1 md:text-3xl md:leading-14 text-gradient">
-               I’ve had many sources of inspiration over the years.
+              I’ve had many sources of inspiration over the years.
             </h1>
             <p className={`${styles.paragraph} mt-5 mb-4 max-w-[470px]`}>
               I’ve had many sources of inspiration over the years. Some of the most important books
@@ -62,14 +62,14 @@ export default function Home({ posts }) {
         <section className={`flex flex-col md:flex-row  `}>
           <div className={`flex-1 ${styles.flexStart} px-6} flex-col xl:px-0 `}>
             <h1 className="mt-2 mb-2 mr-1 text-2xl font-extrabold leading-9 sm:text-4xl sm:leading-10 md:mt-1 md:mb-1 md:text-2xl md:leading-14 text-gradient">
-            I just want people to enjoy my stories on this website.
+              I just want people to enjoy my stories on this website.
             </h1>
             <p className={`${styles.paragraph} mt-5 mb-4 max-w-[470px]`}>
-              I will keep publishing my chapters here, until I can publish them
-              officially as actual book. I will publish a new chapter every month, and occasionally I'll publish digital art and comics here too. Wrapping up, I
-              hope you enjoy my stories. I try my best, but I know that what I write is not for
-              everybody. I hope that there are a few people who will find my work and like, enjoy
-              it, and share it with others!
+              I will keep publishing my chapters here, until I can publish them officially as actual
+              book. I will publish a new chapter every month, and occasionally I'll publish digital
+              art and comics here too. Wrapping up, I hope you enjoy my stories. I try my best, but
+              I know that what I write is not for everybody. I hope that there are a few people who
+              will find my work and like, enjoy it, and share it with others!
             </p>
           </div>
           <div className={`flex flex-1 ${styles.flexCenter} relative my-10 md:my-0`}>

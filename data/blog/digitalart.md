@@ -25,7 +25,7 @@ summary: 'Here is a gallery of my digital drawing renditions of the characters i
 | Personality traits: | Introverted, Loyal,  |
 |                     | Cautious, Kind       |
 
-![Calder](/static/images/calder.png)
+![Calder](/static/images/Calder.png)
 
 | Name                | Calder Ebersol                 |
 | ------------------- | ------------------------------ |

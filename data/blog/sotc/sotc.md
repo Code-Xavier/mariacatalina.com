@@ -1,6 +1,6 @@
 ---
 title: Shadows of the Celestials 
-date: '12-31-2021'
+date: '12-30-2022'
 tags: ['shadows of the celetstials', 'books']
 draft: false
 summary: Homepage of the Shadows of the Celetstials Series

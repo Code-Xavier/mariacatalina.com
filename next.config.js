@@ -53,8 +53,10 @@ const securityHeaders = [
 ]
 
 module.exports = {
-  images: {
-    unoptimized: true,
+  experimental: {
+    images: {
+      unoptimized: true,
+    },
   },
 }
 

@@ -52,6 +52,12 @@ const securityHeaders = [
   },
 ]
 
+module.exports = {
+  images: {
+    unoptimized: true,
+  },
+}
+
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
@@ -84,9 +90,5 @@ module.exports = withBundleAnalyzer({
 
     return config
   },
-  images: {
-    loader: 'imgix',
-    path: '/',
-    unoptimized: true
-  }
+  
 })

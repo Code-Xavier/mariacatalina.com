@@ -14,6 +14,23 @@ const ContentSecurityPolicy = `
   frame-src giscus.app
 `
 
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {
+  output: 'export',
+}
+
+module.exports = nextConfig
+
+module.exports = {
+  experimental: {
+    images: {
+      unoptimized: true,
+    },
+  },
+}
+
 const securityHeaders = [
   // https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
   {

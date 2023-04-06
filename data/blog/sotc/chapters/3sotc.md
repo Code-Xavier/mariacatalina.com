@@ -2,7 +2,7 @@
 title: Chapter 3
 date: '03-01-2022'
 tags: ['shadows of the celetstials', 'books']
-draft: true
+draft: false
 summary: In Chapter _ of the Shadows of the Celetstials Series, 
 ---
 

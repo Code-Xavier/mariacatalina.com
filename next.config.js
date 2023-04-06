@@ -14,12 +14,6 @@ const ContentSecurityPolicy = `
   frame-src giscus.app
 `
 
-module.exports = {
-  images: {
-      unoptimized: true
-  }
-}
-
 const securityHeaders = [
   // https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
   {
@@ -90,4 +84,9 @@ module.exports = withBundleAnalyzer({
 
     return config
   },
+  images: {
+    loader: 'imgix',
+    path: '/',
+    unoptimized: true
+  }
 })

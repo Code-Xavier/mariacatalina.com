@@ -3,12 +3,8 @@ title: Chapter 01
 date: '01-01-2023'
 tags: ['shadows of the celetstials', 'books']
 draft: false
-summary: The Shadows of the Celetstials Series Continues!
+summary: The Shadows of the Celetstials Series Continues...
 ---
-
-
-
-Chapter 1: Get Out of My Head!
 
 
 “Greetings Asher.” Said the person sitting on a metal table opposite me, his legs crossed casually as he tapped a pen against the table. “What!? Where am I? Who are you? What happened?” I asked all at once, panic rising in my throat. This was wrong - awfully wrong. The last thing I remember was falling asleep the morning before my birthday, excited for whatever the day might hold, and now here I was, handcuffed to a chair in what appeared to be an interrogation room with a strange man looking at me.

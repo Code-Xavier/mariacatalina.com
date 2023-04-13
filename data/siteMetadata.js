@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'mariacatalina.com',
+  title: 'mariacatalinahiguera.com',
   author: 'Maria Catalina',
   headerTitle: 'Maria Catalina',
   description: 'A personal website for self-publishing books & art',

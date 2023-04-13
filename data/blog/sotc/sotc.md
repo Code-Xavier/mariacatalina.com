@@ -18,16 +18,16 @@ Normal. It's a word Asher Hexun has never known the meaning of. He's never in th
 
 <br />
 
-- [Chapter 00:](http://github.com) Prologue
-- [Chapter 01:](http://github.com) Get Out of My Head!
-- [Chapter 02:](http://github.com) Get Out of My Head!
-- [Chapter 03:](http://github.com) Get Out of My Head!
-- [Chapter 04:](http://github.com) Get Out of My Head!
-- [Chapter 05:](http://github.com) Get Out of My Head!
-- [Chapter 06:](http://github.com) Get Out of My Head!
-- [Chapter 07:](http://github.com) Get Out of My Head!
-- [Chapter 08:](http://github.com) Get Out of My Head!
-- [Chapter 09:](http://github.com) Get Out of My Head!
-- [Chapter 10:](http://github.com) Get Out of My Head!
-- [Chapter 11:](http://github.com) Get Out of My Head!
-- [Chapter 12:](http://github.com) Get Out of My Head!
+- [Prologue:](chapters/0sotc) 
+- [Chapter 01:](chapters/1sotc) 
+- [Chapter 02:](chapters/2sotc) 
+- [Chapter 03:](chapters/3sotc) 
+- [Chapter 04:](chapters/4sotc) 
+- [Chapter 05: coming soon!](chapters/5sotc) 
+- [Chapter 06: coming soon!](chapters/6sotc) 
+- [Chapter 07: coming soon!](chapters/7sotc) 
+- [Chapter 08: coming soon!](chapters/8sotc) 
+- [Chapter 09: coming soon!](chapters/9sotc) 
+- [Chapter 10: coming soon!](chapters/10sotc) 
+- [Chapter 11: coming soon!](chapters/11sotc) 
+- [Chapter 12: coming soon!](chapters/12sotc) 

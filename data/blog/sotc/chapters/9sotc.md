@@ -3,7 +3,7 @@ title: Chapter 9
 date: '09-01-2022'
 tags: ['shadows of the celetstials', 'books']
 draft: true
-summary: In Chapter _ of the Shadows of the Celetstials Series, 
+summary: The Shadows of the Celetstials Series Continues...
 ---
 
 

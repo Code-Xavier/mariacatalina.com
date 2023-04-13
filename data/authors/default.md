@@ -2,11 +2,8 @@
 name: Maria Catalina Higuera
 avatar: /static/images/avatar.png
 occupation: Medical Student/Writer
-Univeristy: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-instagram: https://github.com
+email: catafg100@gmail.com
+instagram: https://www.instagram.com/cata_arts_/
 ---
 
 This website and the stories we publish here were created by me and my friend Xavier. We are a pair friends who share a passion for reading and decided to combine forces to publish some of my work. He created the website, I write the stories, he edits my writing (my spelling and grammar are hideous), and we profit (stonks). Well there isn’t much to say about myself. I was born in Colombia but have spent most of my life living in Panama. I moved around a lot during my early childhood which included one year in the U.S - that’s where I first learned english, and picked up some of my current hobbies - reading, writing, watching anime, reading manga, drawing, and napping. 

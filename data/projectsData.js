@@ -6,10 +6,10 @@ const projectsData = [
     href: '/blog/sotc/sotc',
   },
   {
-    title: 'Throne of Desolations',
-    description: `"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."`,
+    title: 'Throne of Desolations (Coming Soon!)',
+    description: `After the destruction of their home, Asher and his fellow fugitives are on the run from both the Celestials and the law. To make matters worse, Asher seems to be ready to shift, and given their current situation, that would be very, very bad  indeed. His friends are divided on what course of action to pursue, and of course Asher is nowhere close to fulfilling the promise he made to his dad, only adding to his frustration...`,
     imgSrc: '/static/images/throne.png',
-    href: '/blog/tod/tod',
+    href: '',
   },
 ]
 

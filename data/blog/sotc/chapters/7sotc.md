@@ -2,7 +2,7 @@
 title: Chapter 7
 date: '07-01-2022'
 tags: ['shadows of the celetstials', 'books']
-draft: true
+draft: false
 summary: The Shadows of the Celetstials Series Continues... 
 ---
 

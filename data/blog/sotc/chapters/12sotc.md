@@ -1,8 +1,8 @@
 ---
 title: Chapter 12
-date: '12-01-2022'
+date: '12-01-2023'
 tags: ['shadows of the celetstials', 'books']
-draft: true
+draft: false
 summary: The Shadows of the Celetstials Series Continues...
 ---
 
